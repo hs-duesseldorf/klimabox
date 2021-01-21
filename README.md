@@ -1,14 +1,19 @@
 # Website Project Klimabox (Archive)
 
 ## About
+Im Rahmen des Projektes "KlimaBox" 2020/2021 von der Hochschule Düsseldorf, werden Zwei verschiedene Webseiten erstellt, um den Nutzer einen Einblick darüber zu geben, was bei unserem Konsumverhalten gerade falsch läuft und wie man das richten kann.
 
-This is the code base of the climate change awareness website project "Klimabox", initiated by Hochschule Düsseldorf.
 
-The website is structured in to two "base" websites (Story, Archive\Block)
+## Story
+
+
+## Archiv
+Die Archiv Seite dient als Sammlung der Beiträge zur Verbesserung der Umwelt.
+
 
 ### Build
+Based on WordPress twenty-twentyone theme and Elementor:
 
-WIP
 
 ### Contribute
 
